@@ -1,5 +1,5 @@
 <html>
 <head>
-<title>Prueba</title>
+<title>Pruebas</title>
 </head>
 </html>
